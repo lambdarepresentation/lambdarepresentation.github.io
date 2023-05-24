@@ -22,7 +22,15 @@ Agent &lambda; = 1.0:
 
 Agent &lambda; = 0.5:
 
-![](tabular_gpi_05.gif)
+![](tabular_gpi05.gif)
+
+Agent &lambda; = 0.0:
+
+![](tabular_gpi00.gif)
+
+Agent &lambda; = 1.0:
+
+![](tabular_gpi10.gif)
 
 ## Replenishing Rewards in TwoRooms
 
