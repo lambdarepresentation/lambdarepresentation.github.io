@@ -20,7 +20,9 @@ Agent &lambda; = 1.0:
 
 ## Policy Composition in FourRooms
 
+Agent &lambda; = 0.5:
 
+![](tabular_gpi_05.gif)
 
 ## Replenishing Rewards in TwoRooms
 
