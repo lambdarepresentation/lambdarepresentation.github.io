@@ -4,9 +4,17 @@ Here we present GIFs of agents trained using the &lambda;R across several naviga
 
 ## Policy Learning in TwoRooms
 
+In this this setting the true &lambda; is 0.5.
+
+Agent &lambda; = 0.5:
+
 ![Q-lambda learning](q0.5.gif)
 
+Agent &lambda; = 0.0:
+
 ![Q-lambda learning](q0.0.gif)
+
+Agent &lambda; = 1.0:
 
 ![Q-lambda learning](q1.0.gif)
 
