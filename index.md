@@ -8,3 +8,6 @@ Here we present GIFs of agents trained using the $$\lambda$$R across several nav
 
 ## Replenishing Rewards in TwoRooms
 
+![Q-lambda learning with replenishing rewards](0.5_replenish.gif)
+
+
