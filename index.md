@@ -4,7 +4,15 @@ Here we present GIFs of agents trained using the &lambda;R across several naviga
 
 ## Policy Learning in TwoRooms
 
+![Q-lambda learning](q0.5.gif)
+
+![Q-lambda learning](q0.0.gif)
+
+![Q-lambda learning](q1.0.gif)
+
 ## Policy Composition in FourRooms
+
+
 
 ## Replenishing Rewards in TwoRooms
 
