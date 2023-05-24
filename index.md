@@ -32,6 +32,10 @@ Agent &lambda; = 1.0:
 
 ![](tabular_gpi10.gif)
 
+Pixel-based agent:
+
+![](gpi_pixel_fast.gif)
+
 ## Replenishing Rewards in TwoRooms
 
 ![Q-lambda learning with replenishing rewards](0.5_replenish.gif)
